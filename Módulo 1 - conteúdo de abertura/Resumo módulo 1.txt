@@ -1,0 +1,4 @@
+Este é um módulo constituído de três etapas, as quais são:introdução a programação e ao pensamento computacional, introdução ao git/github e um projeto prático.
+O primeiro, nos ensina os pontos basicos sobre como é pensamento computacional e a sua aplicabilidade para resolver qualquer problema, para isso há também a introdução dos algoritmos em que são uma sequencia de passos para fazer/resolver algo proposto.
+O segundo, inicialmente nos ensina comandos que podem ser aplicados no propt de comando, assim como no aplicativo git, o qual também é eninado como baixa-lo e instalar ele. E o curso segue com um tutorial de como criar um repositório no Github através da ferramenta git bash.
+E finalmente, o primeiro módulo se encerra com este projeto em questão.
